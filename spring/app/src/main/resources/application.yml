@@ -1,0 +1,7 @@
+app.name: App1
+app.description: Microservicio 1 {app.name}
+
+db:
+  connection:
+  host:
+  port:
